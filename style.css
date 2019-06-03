@@ -1,0 +1,73 @@
+@font-face{
+    font-family: 'fourth';
+    src: url('fourth.ttf');
+}
+
+
+a{
+    text-decoration: none;
+}
+
+h1{
+    font-family: 'fourth';
+    font-size: 500%;
+    margin-top:2%;
+}
+
+body{
+    text-align: center;
+}
+
+#removebutton{
+    color: red;
+    background-color: lightgoldenrodyellow;
+}
+
+#mainbutton{
+    font-size: 200%;
+    background-color: lightblue;
+    border-radius: 5%;
+    padding: 0 1%;
+}
+
+header{
+    text-align: center;
+}
+
+div{
+    display: inline-block;
+}
+
+
+#profilepic{
+    width: 100%;
+    border-radius: 100%;
+}
+
+#pictures{
+    text-align: center;
+    width: 100%;
+}
+
+.pic{
+    width: 25%;
+    margin: 1%;
+}
+
+img{
+    width: 100%;
+}
+
+h2{
+    margin-top: -2%;
+}
+
+footer{
+    background: lightcyan;
+    color: green;
+    font-weight: 800;
+}
+
+footer a{
+    color: green;
+}
